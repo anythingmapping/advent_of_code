@@ -1,5 +1,3 @@
 # advent_of_code
-Is the early aoc challenge to refine handelling of discrete problems sets.
+Repo for all attempts at aoc; not terribly successfully.
 
-
-## 2025
