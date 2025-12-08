@@ -11,7 +11,7 @@ def get_beam_array():
         print(beam_array)
         print(beam_array.shape)
         for i in range(beam_array.shape[0]):
-            print(beam_array[i])
+            print(beam_array)
 
     return beam_array
 
